@@ -62,6 +62,7 @@ contract Crowdfunding {
 ```
 output:
 <img width="1920" height="1140" alt="Screenshot 2026-02-25 093811" src="https://github.com/user-attachments/assets/305b33e1-e753-40de-a380-cd3110ae924c" />
+<img width="1920" height="1140" alt="Screenshot 2026-02-25 104109" src="https://github.com/user-attachments/assets/8e0492d0-ea1b-4140-a200-65666128bd62" />
 
 ```
 ```
